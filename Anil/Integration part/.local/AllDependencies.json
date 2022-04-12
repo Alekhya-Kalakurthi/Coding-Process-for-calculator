@@ -4149,7 +4149,6 @@
       "path": "google.apis.calendar.v3/1.43.0.1872",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "LICENSE",
         "google.apis.calendar.v3.1.43.0.1872.nupkg.sha512",
         "google.apis.calendar.v3.nuspec",
@@ -5557,7 +5556,6 @@
       "path": "sharpziplib/1.2.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "lib/net45/ICSharpCode.SharpZipLib.dll",
         "lib/net45/ICSharpCode.SharpZipLib.pdb",
         "lib/net45/ICSharpCode.SharpZipLib.xml",
@@ -7570,11 +7568,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "Divinson",
-      "projectName": "Divinson",
-      "projectPath": "D:\\GitHub\\Coding-Process-for-calculator\\chandu charagonda\\.local",
+      "projectUniqueName": "BlankProcess",
+      "projectName": "BlankProcess",
+      "projectPath": "D:\\GitHub\\Coding-Process-for-calculator\\Anil\\Integration part\\.local",
       "packagesPath": "C:\\Users\\Chandu\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\Coding-Process-for-calculator\\chandu charagonda\\.local"
+      "outputPath": "D:\\GitHub\\Coding-Process-for-calculator\\Anil\\Integration part\\.local"
     },
     "frameworks": {
       "net461": {
