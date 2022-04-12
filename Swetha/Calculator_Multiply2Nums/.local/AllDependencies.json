@@ -7565,15 +7565,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Swetha\\.nuget\\packages\\": {}
+    "C:\\Users\\CS\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Calculator_Multiply2Nums",
       "projectName": "Calculator_Multiply2Nums",
-      "projectPath": "D:\\UiPath\\RPA Course\\GitRepos\\Coding-Process-for-calculator\\Swetha\\Calculator_Multiply2Nums\\.local",
-      "packagesPath": "C:\\Users\\Swetha\\.nuget\\packages\\",
-      "outputPath": "D:\\UiPath\\RPA Course\\GitRepos\\Coding-Process-for-calculator\\Swetha\\Calculator_Multiply2Nums\\.local"
+      "projectPath": "E:\\GitHub\\Coding-Process-for-calculator\\Swetha\\Calculator_Multiply2Nums\\.local",
+      "packagesPath": "C:\\Users\\CS\\.nuget\\packages\\",
+      "outputPath": "E:\\GitHub\\Coding-Process-for-calculator\\Swetha\\Calculator_Multiply2Nums\\.local"
     },
     "frameworks": {
       "net461": {
@@ -7599,7 +7599,7 @@
             "version": "[21.10.5, 21.10.5]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Swetha\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\CS\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {

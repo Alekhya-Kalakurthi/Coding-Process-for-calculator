@@ -7564,15 +7564,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Chandu\\.nuget\\packages\\": {}
+    "C:\\Users\\CS\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "BlankProcess",
       "projectName": "BlankProcess",
-      "projectPath": "D:\\GitHub\\Coding-Process-for-calculator\\Anil\\Integration part\\.local",
-      "packagesPath": "C:\\Users\\Chandu\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\Coding-Process-for-calculator\\Anil\\Integration part\\.local"
+      "projectPath": "E:\\GitHub\\Coding-Process-for-calculator\\Anil\\Integration part\\.local",
+      "packagesPath": "C:\\Users\\CS\\.nuget\\packages\\",
+      "outputPath": "E:\\GitHub\\Coding-Process-for-calculator\\Anil\\Integration part\\.local"
     },
     "frameworks": {
       "net461": {
@@ -7598,7 +7598,7 @@
             "version": "[21.10.5, 21.10.5]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Chandu\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\CS\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {
